@@ -3,17 +3,12 @@ build
 target
 
 *.iml
-*.ipr
-*.iws
 *.class
 
 .idea
 .classpath
 .project
 .gradle
-gradle/
-gradlew
-gradlew.bat
 
 # Vim Backup/Swap Files
 *~

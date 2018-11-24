@@ -1,6 +1,6 @@
 language: java
 jdk:
-- openjdk7
+- oraclejdk7
 
 before_install:
   - cat ~/.m2/settings.xml
@@ -22,7 +22,6 @@ notifications:
   email:
     - richard.vannieuwenhoven@adesso.at
     - elonen@iki.fi
-    - diogo.duarte@techie.com
     
 env:
  global:
